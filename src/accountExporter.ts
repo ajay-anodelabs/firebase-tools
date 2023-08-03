@@ -41,6 +41,7 @@ const PROVIDER_ID_INDEX_MAP = new Map<string, number>([
   ["facebook.com", 11],
   ["twitter.com", 15],
   ["github.com", 19],
+  ["apple.com": 23]
 ]);
 
 function escapeComma(str: string): string {
